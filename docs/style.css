@@ -173,6 +173,3 @@ h1 {
 		--primary: hsl(var(--hue),90%,70%);
 	}
 }
-#item60 .timeline__title {
-    color:aqua; /* Replace #colorCode with the color you want */
-}
