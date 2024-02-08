@@ -173,3 +173,6 @@ h1 {
 		--primary: hsl(var(--hue),90%,70%);
 	}
 }
+.timeline__title {
+	color:rgb(190, 159, 113);
+}
