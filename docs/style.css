@@ -185,8 +185,11 @@ h1 {
 .timeline__item-textbox {
     padding: 10px;
     background-color: #6057be; /* Light grey background for the text box */
-    border-radius: 5px;
+    border-radius: 10px;
     margin-top: 10px; /* Space between the image and the text box */
+}
+.timeline_item-p {
+	border-radius: 5px;
 }
 
 
